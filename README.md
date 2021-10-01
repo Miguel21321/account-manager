@@ -12,8 +12,16 @@ Working... The code will be published soon...
 - Los bots generadores de cuentas, o cualquier bot que pretenda distribuir cuentas, códigos, etc. para cualquier tipo de servicio, están totalmente en contra de los Términos de servicio de Discord, no me responsabilizo de ningun ban que pueda recibir tu bot debido a esto.
 
 # Setup:
-...
-# Commands:
+(Debes tener instalado [node.js](https://nodejs.org) en tu pc para que el bot funcione)
+(Puedes hostearlo en cualquier sitio; ide, selfhost, glitch, vps etc...)
+(Si necesitas ayuda siempre puedes contactarnos [discord.link/huguitis](https://discord.link/huguitis))
+1. Descarga y extrae el código del bot.
+2. Abre el archivo "instalar.bat" o ejecuta **npm i** y espera...
+3. Modifica el archivo "settings.json" como desees (Debes incluir el token de tu bot)
+4. ¡Abre el archivo "iniciar.bat" o ejecuta **node .** para iniciar el bot!
+5. Disfruta ;)
+
+# Comandos:
 **Configuración**
 - \`setgen-channel\` - Configura el canal del generador.
 - \`remove-gen\` - Desabilita el generador en el servidor.
@@ -45,8 +53,3 @@ Working... The code will be published soon...
 - \`set-imagen\` - Establece una imagen para tu perfil.
 - \`remove-imagen\` - Elimina la imagen de tu perfil.
 - \`claim-daily\` - Reclama tu recompensa diaria de lanos.
-
-
-
-
-
