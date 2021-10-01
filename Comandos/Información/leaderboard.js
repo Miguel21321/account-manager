@@ -8,6 +8,6 @@ $globalUserLeaderboard[usergencount;asc;**{top}: {username}** - {value} cuentas.
 $color[GREEN]
 
 
-$sendMessage[Se está recopilando toda la información, porfavor espera...}{color:YELLOW}{delete:30s};no]
+$sendMessage[{description:Se está recopilando toda la información, porfavor espera...}{color:YELLOW}{delete:30s};no]
 `
 }]
