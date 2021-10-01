@@ -6,8 +6,8 @@ Working... The code will be published soon...
 
 # Disclaimer
 - IMPORTANT, DO NOT MODIFY THE CREDITS IN THE BOT, OTHERWISE YOU ARE DEAD, thanks :)
-- IMPORTANTE, NO MODIFICAR LOS CREDITOS EN EL BOT, DE LO CONTRARIO ESTÁS MUERTO, gracias :) 
-**Nota/Note:**
+- IMPORTANTE, NO MODIFICAR LOS CREDITOS EN EL BOT, DE LO CONTRARIO ESTÁS MUERTO, gracias :)
+** - Nota/Note:**
 - Account generator bots, or any bots that portend to distribute accounts, codes, etc. for any kind of service, are entirely against Discord Terms of Service.
 - Los bots generadores de cuentas, o cualquier bot que pretenda distribuir cuentas, códigos, etc. para cualquier tipo de servicio, están totalmente en contra de los Términos de servicio de Discord.
 
