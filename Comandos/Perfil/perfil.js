@@ -8,11 +8,11 @@ $footer[Desarrollado por HuguitisYT#1234]
 $color[$getGlobalUserVar[embedcolor;$findUser[$message]]]
 
 $description[
-<:usuario:885509080565809232> **Rol:** $getGlobalUserVar[userrole;$findUser[$message]]
-<:ban:858713200425828352> **Baneado:** $getGlobalUserVar[baneado;$findUser[$message]]
-<:lanos:885460275917099018> **Cantidad de lanos:** $getGlobalUserVar[lanos;$findUser[$message]]
-<:regalo:885509892633399338> **Cuentas generadas:** $getGlobalUserVar[usergencount;$findUser[$message]]
-<:biografia:885460610685472788> **Biografía:** $getGlobalUserVar[biografia;$findUser[$message]]
+**Rol:** $getGlobalUserVar[userrole;$findUser[$message]]
+**Baneado:** $getGlobalUserVar[baneado;$findUser[$message]]
+**Cantidad de lanos:** $getGlobalUserVar[lanos;$findUser[$message]]
+**Cuentas generadas:** $getGlobalUserVar[usergencount;$findUser[$message]]
+**Biografía:** $getGlobalUserVar[biografia;$findUser[$message]]
 
 ** __Complementos comprados__: **
 $getGlobalUserVar[biotienes;$findUser[$message]] - **Biografía personalizada**
