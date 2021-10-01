@@ -1,0 +1,17 @@
+{
+  "name": "Account-Manager",
+  "version": "1.0.0",
+  "description": "Hola porque miras aquí",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "HuguitisYT",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^4.5.0"
+  }
+}
