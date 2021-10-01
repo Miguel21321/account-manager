@@ -8,10 +8,10 @@ const settings = require("./settings.json");
 const aoijs = require("aoi.js")
 
 const bot = new aoijs.Bot({
-token: process.env.token,
+token: settings.token,
 suppressall: true,
 errorMessage: "{description:$getVar[bademoji] **Hey $username, ha ocurrido un error, puedes reportarlo en ** http://discord.link/huguitis **}{color:RED}{footer: Desarrollado por HuguitisYT#1234}",
-prefix: "+"
+prefix: settings.prefix
 })
 
 // Command Handler
