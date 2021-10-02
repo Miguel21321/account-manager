@@ -10,5 +10,6 @@ $setGlobalUserVar[lanos;$sum[$getGlobalUserVar[lanos;$findUser[$message]];$messa
 
 $onlyForIDs[$getVar[ownerid];]
 $argsCheck[>1;]
+$suppressErrors[Error, ejemplo: +add-lanos @huguitis 1000]
 `
 })
